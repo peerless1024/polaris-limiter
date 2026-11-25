@@ -18,6 +18,8 @@ vendor/
 CODEBUDDY.md
 .claude/
 CLAUDE.md
+.agents/
+AGENTS.md
 
 # 测试覆盖率产物（make cover）
 cover.out
